@@ -20,8 +20,7 @@ Un petit jeu d'escrime codé en python, jouable sur le terminal avec musique et 
 
 ### Installation
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+* [Lien de téléchargement](https://github.com/MathieuRodri/fencing_game_python/releases/tag/v1.0)
 
 ### Exécution du programme
 
