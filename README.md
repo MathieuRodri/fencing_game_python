@@ -14,8 +14,9 @@ Un petit jeu d'escrime codé en python, jouable sur le terminal avec musique et 
 
 * time
 * threading
+* tkinter
 * pygame (for the sound)
-* os (for time.sleep())
+* os
 
 ### Installation
 
