@@ -1,5 +1,7 @@
 # Fencing Game Python
 
+<img src="/sceenshot/01.png" title="screenshot">
+
 Projet Master M1 pour le cours de programmation avancé
 
 ## Description
