@@ -1,6 +1,6 @@
 # Fencing Game Python
 
-<img src="/sceenshot/01.png" title="screenshot">
+<img src="./screenshot/02.png" title="screenshot">
 
 Projet Master M1 pour le cours de programmation avancé
 
@@ -30,6 +30,7 @@ python main.py
 
 python3 main.py
 ```
+<img src="./screenshot/01.png" title="screenshot">
 
 ## Help
 
