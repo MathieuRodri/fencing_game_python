@@ -4,9 +4,9 @@ Projet Master M1 pour le cours de programmation avancé
 
 ## Description
 
-Un petit jeu d'escrime codé en python, jouable sur terminal avec musique et son.
+Un petit jeu d'escrime codé en python, jouable sur le terminal avec musique et son.
 
-## Getting Started
+## Guide de démarrage
 
 ### Dépendances
 
@@ -15,7 +15,7 @@ Un petit jeu d'escrime codé en python, jouable sur terminal avec musique et son
 * pygame (for the sound)
 * os (for time.sleep())
 
-### Installing
+### Installation
 
 * How/where to download your program
 * Any modifications needed to be made to files/folders
@@ -31,35 +31,19 @@ python3 main.py
 
 ## Help
 
-Any advise for common problems or issues.
+Vous constatés des problèmes d'affichage sur la version terminal ?
+Vous pouvez agrandir votre terminal afin d'afficher l'entièreté du jeu
+Ou modifier les variables x_board (71 par défaut) et y_board (15 par défaut) dans le fichier scene.py
 ```
-command to run if program contains helper info
+#./scene.py
+
+x_board = 31
+y_board = 10
 ```
 
-## Autheu
+## Autheur
 
 Noms et coordonnées des contributeurs
 
-ex. RODRIGUES Mathieu
-ex. [@RodMathieu]([https://twitter.com/dompizzie](https://www.linkedin.com/in/mathieu-rodrigues01))
-
-## Version History
-
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
-* 0.1
-    * Initial Release
-
-## License
-
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
-
-## Acknowledgments
-
-Inspiration, code snippets, etc.
-* [awesome-readme](https://github.com/matiassingers/awesome-readme)
-* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* [dbader](https://github.com/dbader/readme-template)
-* [zenorocha](https://gist.github.com/zenorocha/4526327)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
+RODRIGUES Mathieu | 
+[LinkedIn](https://www.linkedin.com/in/mathieu-rodrigues01)
